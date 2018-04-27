@@ -37,4 +37,5 @@ locally installed a newer version of Cython.
 
 There is not much that we can do on the PyPy side, apart for waiting for all
 the Cython-based packages to do a new release which include C files generated
-by a newer Cython.
+by a newer Cython.  In the mean time, installing this module will silence the
+warning.
